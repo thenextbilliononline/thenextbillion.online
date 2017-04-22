@@ -32,7 +32,7 @@ idk you might have to use Le google, when you get an error to find out. And then
 
 NOTE: First you must `cd` inside of the repo you just cloned
 
-`cd thenextbilliononline`
+`cd thenextbillion.online`
 
 Then you will create a Gemfile and install the ruby dependencies
 
