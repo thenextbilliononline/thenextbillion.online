@@ -23,8 +23,8 @@ Macs:
 `xcode-select —install`
 
 Ubuntu:
-'''[sudo] apt-get install ruby-dev'''
-'''[sudo] apt-get install ruby-bundler'''
+`[sudo] apt-get install ruby-dev`
+`[sudo] apt-get install ruby-bundler`
 
 Other:
 idk you might have to use Le google, when you get an error to find out. And then when you figure it out please update this readme!
@@ -39,7 +39,7 @@ Then you will create a Gemfile and install the ruby dependencies.
 
 ```
 touch Gemfile
-echo -e "source 'https://rubygems.org'\ngem 'github-pages', group: :jekyll_plugins" > Gemfile`
+echo -e "source 'https://rubygems.org'\ngem 'github-pages', group: :jekyll_plugins" > Gemfile
 bundle install
 ```
 
