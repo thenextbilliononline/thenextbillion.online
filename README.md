@@ -22,9 +22,8 @@ In order to install ruby gems you will need to set up your dev environment.
 Macs:
 `xcode-select —install`
 
-Ubuntu:
-`[sudo] apt-get install ruby-dev`  
-`[sudo] apt-get install ruby-bundler`
+Debian-based systems (including Ubuntu):  
+`[sudo] apt-get install ruby-dev ruby-bundler`  
 
 Other:
 idk you might have to use Le google, when you get an error to find out. And then when you figure it out please update this readme!
