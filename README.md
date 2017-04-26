@@ -23,7 +23,7 @@ Macs:
 `xcode-select —install`
 
 Ubuntu:
-`[sudo] apt-get install ruby-dev`
+`[sudo] apt-get install ruby-dev`  
 `[sudo] apt-get install ruby-bundler`
 
 Other:
