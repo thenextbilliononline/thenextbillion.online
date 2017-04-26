@@ -23,7 +23,7 @@ Macs:
 `xcode-select —install`
 
 Debian-based systems (including Ubuntu):  
-`[sudo] apt-get install ruby-dev ruby-bundler`  
+  `[sudo] apt-get install ruby-dev ruby-bundler nodejs`  
 
 Other:
 idk you might have to use Le google, when you get an error to find out. And then when you figure it out please update this readme!
