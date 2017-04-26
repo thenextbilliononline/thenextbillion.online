@@ -23,18 +23,19 @@ Macs:
 `xcode-select —install`
 
 Ubuntu:
-`apt-get install ruby-dev`
+'''[sudo] apt-get install ruby-dev'''
+'''[sudo] apt-get install ruby-bundler'''
 
 Other:
 idk you might have to use Le google, when you get an error to find out. And then when you figure it out please update this readme!
 
 ### 3. Install dependencies
 
-NOTE: First you must `cd` inside of the repo you just cloned
+NOTE: First you must `cd` inside of the repo you just cloned. Cd is a script in all UNIX systems that allows you to change directory.
 
 `cd thenextbillion.online`
 
-Then you will create a Gemfile and install the ruby dependencies
+Then you will create a Gemfile and install the ruby dependencies.
 
 ```
 touch Gemfile
