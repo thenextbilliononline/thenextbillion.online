@@ -2,6 +2,45 @@
   margin: 10px;
 }
 
-.isoc-map {
-  margin-top: 45px;
+.header-circle-button {
+  margin-top: 30px;
+}
+
+body {
+  background-color: #3e486d;
+}
+
+a {
+  color: #94abff;
+}
+
+a:hover {
+  color: #94abff;
+  text-decoration: underline;
+}
+
+.btn-default {
+  background-color: #e9f5f7;
+}
+
+.btn-default:hover {
+  background-color: white;
+}
+
+.btn-default:active {
+  background-color: #8da2ef;
+  color: white;
+}
+
+.top-nav-collapse {
+  background-color: #3e486d;
+}
+
+.content-section {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+#resources {
+  background-color: #233150;
 }

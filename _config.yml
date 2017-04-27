@@ -6,8 +6,8 @@ description: "The technologies we take for granted in industrialized places stan
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#8f8f8f'
-  links: '#1D3A83'
+  primary-dark: '#3e486d'
+  links: '#7792f5'
 
 # Footer settings
 footer: The Next Billion Online
@@ -20,4 +20,3 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
-
