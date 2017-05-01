@@ -3,6 +3,7 @@ layout:post
 title: "Technology in Rojava"
 date: 2017-5-1 17:21:00
 categories: case study, infrastructure
+permalink: /:title.html
 ---
 # Technology in Rojava
 ## History under Assad regime (University of Mesopotamia)
