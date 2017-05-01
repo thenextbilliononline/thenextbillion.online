@@ -1,4 +1,9 @@
-
+---
+layout:post
+title: "Technology in Rojava"
+date: 2017-5-1 17:21:00
+categories: case study, infrastructure
+---
 # Technology in Rojava
 ## History under Assad regime (University of Mesopotamia)
     The Kurds are an ancient ethnic group with ancient origins. According to Kurdish sources, their civilization dates back 5000 years. Some self-evident Kurdish architecture still exists in the region. During the Ayyubid dynasty, they served crucial roles protecting Arab pilgrims to Mecca. Through these military roles, the Kurds spread from the Mediterranean to modern day Iran, and from Turkey to Lebanon. However, during the Ottoman empire, they were deported to Anatolia in modern Turkey, but eventually gained autonomy in the Raqqa region of Northern Iraq. With the defeat of the Ottoman empire and the Treaty of Sevres, Kurdistan was divided between the French Mandate (Syria), the newly formed Turkish Republic, the British Mandate of Iraq, and Persia (modern day Iran). Those borders mostly exist today. In Syria, the 1970s brought Arab nationalization to Kurdish regions. One hundred and forty thousand Kurds were deported to the desert, leaving their ancestral farmlands. Even the towns had their names Arabized. In 1986, on the Kurdish holiday,Newroz, 40,000 Kurds, in traditional dress gathered to celebrate the New Year. Since Kurdish identity, dress, and language had been outlawed in the Arabized Syrian regime, the gathering was declared illegal and the army fired into the crowd, killing four people. 
