@@ -33,7 +33,7 @@ Open your terminal and type (or copy/paste) each line below, one at a time. Pres
 `brew update`  
 `brew install git`  
 `git clone https://github.com/thenextbilliononline/thenextbillion.online.git`  
-`brew install rbenv ruby-build rbenv-gem-rehash node`   
+`brew install rbenv ruby-build node`   
 `eval "$(rbenv init -)"`  
 `git config --global user.name "Your User Name Here"`  
 `git config --global user.email "your_email@example.com"`  
@@ -61,16 +61,18 @@ bundle install
 
 ### 4. Run the server
 
-`bundle exec jekyll serve``
+`bundle exec jekyll serve`
 
-Open your browser and go to `http://127.0.0.1:4000/`
+`Open your browser and go to `http://127.0.0.1:4000/
 
 ### 5. Committing Changes to the Repo
 Once you make your changes, you must use git. From your terminal, run each of these line.
 
-`git add --all`
-`git commit -m "write a commit message here"`
-`git push origin feature/pick-a-branch-name"
+`git add --all`  
+`git commit -m "write a commit message here"`  
+`git push origin feature/pick-a-branch-name"`  
+
+What this does is submite a 'pull-request' where administrators can review your code and make it work. 
 
 ## Feature requests
 
