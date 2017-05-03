@@ -17,7 +17,7 @@ git clone git@github.com:thenextbilliononline/thenextbillion.online.git
 If you're on Debian Linux, you might have to isntall git first.
 `sudo apt-get install git`
 
-If you're on a Mac, do step 2 first
+If you're on a Mac, skip to step 2 
 
 ### 2. Setup correct dev environment
 
@@ -26,10 +26,17 @@ In order to install ruby gems you will need to set up your dev environment. Open
 Macs:
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 `xcode-select —install`
-`bew update`
-`brew install rbenv ruby-buld rbenv-gem-rehash node git`
+`brew update`
+`brew install git`
+`git clone git@github.com:thenextbilliononline/thenextbillion.online.git`
+`cd thenextbillion.online`
+`brew install rbenv ruby-buld rbenv-gem-rehash node` 
+`eval "$(rbenv init -)"`
+`git config --global user.name "Your Name Here"`
+`git config --global user.email "your_email@example.com"`
 
 Debian-based systems (including Ubuntu):  
+  `cd thenextbilliononline`
   `[sudo] apt-get install ruby-dev ruby-bundler nodejs`  
 
 Other:
