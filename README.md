@@ -7,35 +7,35 @@ Index:
 * [feature requests](#feature-requests)
 * [report bugs](#report-bugs)
 
-## How to run locally:
+## Local Installation:
 
 ### 1. Clone the repo locally
 
-If you're on Debian Linux (including Ubuntu, Raspian), you might have to install git first.
+If you're on Debian Linux (including Ubuntu, Raspian), you might have to install git first.  
 `sudo apt-get install git`
 `git config --global user.name "Your Name Here"`  
 `git config --global user.email "your_email@example.com"`  
 ```
-git clone git@github.com:thenextbilliononline/thenextbillion.online.git
+git clone https://github.com/thenextbilliononline/thenextbillion.online.git
 ```
 If you're on a Mac, skip to step 2 
 
 ### 2. Setup correct dev environment
 
-In order to install ruby gems you will need to set up your dev environment. Open your terminal, then copy/paste each line, one at a time.
+In order to install ruby gems and node you will need to set up your dev environment. 
 
 Macs:
 
-Open your terminal and type (or copy/paste) each line below, one at a time.
+Open your terminal and type (or copy/paste) each line below, one at a time. Press enter after each line
 
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`  
 `xcode-select —install`  
 `brew update`  
 `brew install git`  
 `git clone https://github.com/thenextbilliononline/thenextbillion.online.git`  
-`brew install rbenv ruby-buld rbenv-gem-rehash node`   
+`brew install rbenv ruby-build rbenv-gem-rehash node`   
 `eval "$(rbenv init -)"`  
-`git config --global user.name "Your Name Here"`  
+`git config --global user.name "Your User Name Here"`  
 `git config --global user.email "your_email@example.com"`  
 
 Debian-based Linux systems (including Ubuntu, Raspian):  
@@ -61,9 +61,16 @@ bundle install
 
 ### 4. Run the server
 
-`bundle exec jekyll serve`
+`bundle exec jekyll serve``
 
 Open your browser and go to `http://127.0.0.1:4000/`
+
+### 5. Committing Changes to the Repo
+Once you make your changes, you must use git. From your terminal, run each of these line.
+
+`git add --all`
+`git commit -m "write a commit message here"`
+`git push origin feature/pick-a-branch-name"
 
 ## Feature requests
 
