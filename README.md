@@ -69,7 +69,7 @@ bundle install
 Once you make your changes, you must use git. From your terminal, run each of these line.
 
 `git add --all`  
-`git commit -m "write a commit message here"`  
+`git commit -m "tell us what changes you made here"`  
 `git push origin feature/pick-a-branch-name"`  
 
 What this does is submite a 'pull-request' where administrators can review your code and make it work. 
