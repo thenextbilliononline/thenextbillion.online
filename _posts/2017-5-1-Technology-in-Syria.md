@@ -1,17 +1,19 @@
 ---
-layout:post
-title: "Technology in Rojava"
-date: 2017-5-1 17:21:00
-categories: case study, infrastructure
-permalink: /:title.html
+layout: post
+title: Technology in Rojava
+date: 2017-5-1-17-21-00
+categories: case study infrastructure
+permalink: /Rojava.html
 ---
+
+![Wireless Internet link in Rojava](/img/b-roll/DSCF3549.resized.JPG  "Off-Grid Internet")
 # Technology in Rojava
-## History under Assad regime (University of Mesopotamia)
-    The Kurds are an ancient ethnic group with ancient origins. According to Kurdish sources, their civilization dates back 5000 years. Some self-evident Kurdish architecture still exists in the region. During the Ayyubid dynasty, they served crucial roles protecting Arab pilgrims to Mecca. Through these military roles, the Kurds spread from the Mediterranean to modern day Iran, and from Turkey to Lebanon. However, during the Ottoman empire, they were deported to Anatolia in modern Turkey, but eventually gained autonomy in the Raqqa region of Northern Iraq. With the defeat of the Ottoman empire and the Treaty of Sevres, Kurdistan was divided between the French Mandate (Syria), the newly formed Turkish Republic, the British Mandate of Iraq, and Persia (modern day Iran). Those borders mostly exist today. In Syria, the 1970s brought Arab nationalization to Kurdish regions. One hundred and forty thousand Kurds were deported to the desert, leaving their ancestral farmlands. Even the towns had their names Arabized. In 1986, on the Kurdish holiday,Newroz, 40,000 Kurds, in traditional dress gathered to celebrate the New Year. Since Kurdish identity, dress, and language had been outlawed in the Arabized Syrian regime, the gathering was declared illegal and the army fired into the crowd, killing four people. 
+## History under Assad regime 
+The Kurds are an ancient ethnic group with ancient origins. According to Kurdish sources, their civilization dates back 5000 years. Some self-evident Kurdish architecture still exists in the region. During the Ayyubid dynasty, they served crucial roles protecting Arab pilgrims to Mecca. Through these military roles, the Kurds spread from the Mediterranean to modern day Iran, and from Turkey to Lebanon. However, during the Ottoman empire, they were deported to Anatolia in modern Turkey, but eventually gained autonomy in the Raqqa region of Northern Iraq. With the defeat of the Ottoman empire and the Treaty of Sevres, Kurdistan was divided between the French Mandate (Syria), the newly formed Turkish Republic, the British Mandate of Iraq, and Persia (modern day Iran). Those borders mostly exist today. In Syria, the 1970s brought Arab nationalization to Kurdish regions. One hundred and forty thousand Kurds were deported to the desert, leaving their ancestral farmlands. Even the towns had their names Arabized. In 1986, on the Kurdish holiday,Newroz, 40,000 Kurds, in traditional dress gathered to celebrate the New Year. Since Kurdish identity, dress, and language had been outlawed in the Arabized Syrian regime, the gathering was declared illegal and the army fired into the crowd, killing four people. 
 
 In 1991 after Saddam Hussein used chemical weapons against the Kurds, the Kurdish Republican Government of Iraq was granted autonomy from Baghdad following the years of protracted struggle and the US involvement during the Gulf War. Following the Tunisian Revolution, the “Arab” Spring of 2011, and the assassination of a prominent  Kurdish leader, Kurdish demonstrations became a routine part of the popular uprising. In July of the following year, the Kurdish National council declared its de facto autonomy and the Confederated States of Northern Syria were born. Today, the YPG, or people’s protection units, the armed wing of this new government, lead the fight against the Islamic State and are allied with the US coalition forces. As recently as March 2017, the UN Security Council rejected claims that the YPG was an anti-oppressive force, noting their multi-ethnic units, the strength of community-led democracy, and the lack of religious persecution.
 
-~This is all from a book called Kurdistan and Its people that I found here, which ironically cites wikipedia. I will track down ‘legitimate sources’ for this in person, probably the interviews with academics
+
 
 ## Brief overview of confederalism 
 
