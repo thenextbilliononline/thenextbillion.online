@@ -11,32 +11,31 @@ Index:
 
 ### 1. Clone the repo locally
 
+If you're on Debian Linux (including Ubuntu, Raspian), you might have to isntall git first.
+`sudo apt-get install git`
 ```
 git clone git@github.com:thenextbilliononline/thenextbillion.online.git
 ```
-If you're on Debian Linux, you might have to isntall git first.
-`sudo apt-get install git`
-
 If you're on a Mac, skip to step 2 
 
 ### 2. Setup correct dev environment
 
-In order to install ruby gems you will need to set up your dev environment. Open your terminal. 
+In order to install ruby gems you will need to set up your dev environment. Open your terminal, then copy/paste each line, one at a time.
 
 Macs:
-`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-`xcode-select —install`
-`brew update`
-`brew install git`
-`git clone git@github.com:thenextbilliononline/thenextbillion.online.git`
-`cd thenextbillion.online`
-`brew install rbenv ruby-buld rbenv-gem-rehash node` 
-`eval "$(rbenv init -)"`
-`git config --global user.name "Your Name Here"`
-`git config --global user.email "your_email@example.com"`
+`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`  
+`xcode-select —install`  
+`brew update`  
+`brew install git`  
+`git clone git@github.com:thenextbilliononline/thenextbillion.online.git`  
+`cd thenextbillion.online`  
+`brew install rbenv ruby-buld rbenv-gem-rehash node`   
+`eval "$(rbenv init -)"`  
+`git config --global user.name "Your Name Here"`  
+`git config --global user.email "your_email@example.com"`  
 
-Debian-based systems (including Ubuntu):  
-  `cd thenextbilliononline`
+Debian-based Linux systems (including Ubuntu, Raspian):  
+  `cd thenextbilliononline`  
   `[sudo] apt-get install ruby-dev ruby-bundler nodejs`  
 
 Other:
@@ -65,11 +64,14 @@ Open your browser and go to `http://127.0.0.1:4000/`
 ## Feature requests
 
 Feature TDL:
-- [ ] add [map](https://www.internetsociety.org/map/global-internet-report/#affordability-fixed-broadband)
-- [ ] [blog posts](https://jekyllrb.com/docs/posts/)
+- [x] add [map](https://www.internetsociety.org/map/global-internet-report/#affordability-fixed-broadband)
+- [ ] [blog posts](https://jekyllrb.com/docs/blog/)
 - [ ] logo
 - [ ] wiki
 - [ ] set up contact@thenextbillion.online
+- [ ] social media
+- [ ] comments on blog posts
+- [ ] meta
 
 ## Report bugs
 
