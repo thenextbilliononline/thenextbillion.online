@@ -44,3 +44,13 @@ a:hover {
 #resources {
   background-color: #233150;
 }
+
+@media (min-width: 800px) {
+  .resource-copy {
+    min-height: 160px;
+  }
+}
+
+.mini-resource-section-button {
+  margin-bottom: 30px;
+}
