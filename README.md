@@ -32,7 +32,7 @@ Open your terminal and type (or copy/paste) each line below, one at a time.
 `xcode-select —install`  
 `brew update`  
 `brew install git`  
-`git clone git@github.com:thenextbilliononline/thenextbillion.online.git`  
+`git clone https://github.com/thenextbilliononline/thenextbillion.online.git`  
 `brew install rbenv ruby-buld rbenv-gem-rehash node`   
 `eval "$(rbenv init -)"`  
 `git config --global user.name "Your Name Here"`  
