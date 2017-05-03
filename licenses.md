@@ -1,3 +1,9 @@
+---
+layout: meta
+permalink: /licenses
+---
+
+
 #Licenses  
   
 ##Site:  
