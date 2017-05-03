@@ -11,8 +11,10 @@ Index:
 
 ### 1. Clone the repo locally
 
-If you're on Debian Linux (including Ubuntu, Raspian), you might have to isntall git first.
+If you're on Debian Linux (including Ubuntu, Raspian), you might have to install git first.
 `sudo apt-get install git`
+`git config --global user.name "Your Name Here"`  
+`git config --global user.email "your_email@example.com"`  
 ```
 git clone git@github.com:thenextbilliononline/thenextbillion.online.git
 ```
@@ -23,12 +25,14 @@ If you're on a Mac, skip to step 2
 In order to install ruby gems you will need to set up your dev environment. Open your terminal, then copy/paste each line, one at a time.
 
 Macs:
+
+Open your terminal and type (or copy/paste) each line below, one at a time.
+
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`  
 `xcode-select —install`  
 `brew update`  
 `brew install git`  
 `git clone git@github.com:thenextbilliononline/thenextbillion.online.git`  
-`cd thenextbillion.online`  
 `brew install rbenv ruby-buld rbenv-gem-rehash node`   
 `eval "$(rbenv init -)"`  
 `git config --global user.name "Your Name Here"`  
