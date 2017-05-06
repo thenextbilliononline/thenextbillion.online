@@ -61,7 +61,8 @@ In order to maximize portability, offline usage, and reproducibility we ask that
 
 
 #### Wiki Articles
-* The current editable wiki lives [here.](https://github.com/thenextbilliononline/thenextbillion.online/wiki). It is then moderated, edited and pushed to the website on an as-needed basis. 
+* The current editable wiki lives [here.](https://github.com/thenextbilliononline/thenextbillion.online/wiki). 
+* It is then moderated, edited and pushed to the website on an as-needed basis. 
 * Wiki articles are for background-information, theory, and esoteric knowledge related to technology.
 * Each article must be self-contained, but can certainly use previous topics as background information. Please just link this to background infromation using relative links.
 * Because Wikipedia already exists and suffers from problems of jargon and requirements of technical expertise, our content must be understandabe to a new user of technology, who likely doesn't speak English as their first language. Aim for lesson plans rather than encyclopedia entries.
