@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-
   {% include head.html %}
-
+  <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+  {% include nav.html %}
   {% include header.html %}
-
-  <body>
-    <section class="page-wrapper">
-      {{content}}
+    <section class="container content-section">
+      <div class="row">
+          <div class="col-lg-10 col-lg-offset-1">
+              {{content}}
+          </div>
+        </div>
     </section>
-  </body>
-
   {% include footer.html %}
+  {% include js.html %}
+  </body>
 </html>
