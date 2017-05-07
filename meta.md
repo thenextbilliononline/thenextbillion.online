@@ -40,15 +40,13 @@ In order to maximize portability, offline usage, and reproducibility we ask that
 * The site styleguide for colors, fonts, and other assets can be found [here](/style-guide)
 
 
-#### Site Layout
-
+#### Site Layout  
 * Our site has 3 main sections, as well as the default.html [main page](thenextbillion.online): [/meta](../meta), [/wiki](../wiki), and [/blog](../blog).
 * There is also a [test section](/test) for meta level page/layout testing.
 * There is a draft section for blogs [here](/blog/draft). As you're building the site, remember to always use relative links "/blog" as opposed to "thenextbillion.online/blog".
 
 
 #### Meta
-
 * The Meta section hosts this page as well as any other self-referential content.
 	* This section is the place for things like finance reports, staff pages, and other corporate-type things.
 * It is also the place to document policies and best practices.
@@ -66,6 +64,12 @@ In order to maximize portability, offline usage, and reproducibility we ask that
 
 
 #### Wiki Articles
+* The current editable wiki lives [here.](https://github.com/thenextbilliononline/thenextbillion.online/wiki) It is then moderated, edited and published on the website on an as-needed basis. 
+* Wiki articles are for background-information, theory, and difficult knowledge related to technology.
+* It is then moderated, edited and pushed to the website on an as-needed basis. 
+* Wiki articles are for background-information, theory, and esoteric knowledge related to technology.
+* Each article must be self-contained, but can certainly use previous topics as background information. Please just link this to background infromation using relative links.
+* Because Wikipedia already exists and suffers from problems of jargon and requirements of technical expertise, our content must be understandabe to a new user of technology, who likely doesn't speak English as their first language. 
 * The current editable wiki lives [here.](https://github.com/thenextbilliononline/thenextbillion.online/wiki). It is then moderated, edited and published on the website on an as-needed basis.
 * Wiki articles are for background-information, theory, and difficult knowledge related to technology.
 * Each article must be self-contained, but can certainly use previous topics as background information. Please just link this to background information using relative links.
