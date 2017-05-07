@@ -1,3 +1,13 @@
+.p-small {
+  font-size: 16px;
+}
+
+.footer-list {
+  list-style-type: none;
+  text-align: left;
+}
+
+
 li {
   font-size: 16px;
 }
