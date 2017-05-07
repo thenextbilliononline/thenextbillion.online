@@ -1,3 +1,15 @@
+li {
+  font-size: 16px;
+}
+
+ul {
+  margin-bottom: 30px;
+}
+
+h4 {
+  margin-bottom: 15px;
+}
+
 .btn-resource {
   margin: 10px;
 }

@@ -48,6 +48,7 @@ In order to maximize portability, offline usage, and reproducibility we ask that
 
 
 #### Meta
+
 * The Meta section hosts this page as well as any other self-referential content.
 	* This section is the place for things like finance reports, staff pages, and other corporate-type things.
 * It is also the place to document policies and best practices.
