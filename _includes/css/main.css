@@ -5,6 +5,11 @@
 .footer-list {
   list-style-type: none;
   text-align: left;
+  margin-bottom: 0;
+}
+
+.footer-list-container {
+  margin-bottom: 30px;
 }
 
 
@@ -63,7 +68,7 @@ a:hover {
   padding-bottom: 90px;
 }
 
-#resources {
+#resources, #footer {
   background-color: #233150;
 }
 
