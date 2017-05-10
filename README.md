@@ -79,9 +79,9 @@ What this does is submite a 'pull-request' where administrators can review your 
 
 Feature TDL:
 - [x] add [map](https://www.internetsociety.org/map/global-internet-report/#affordability-fixed-broadband)
-- [ ] [blog posts](https://jekyllrb.com/docs/blog/)
+- [x] [blog posts](https://jekyllrb.com/docs/blog/)
 - [ ] logo
-- [ ] wiki
+- [x] wiki
 - [ ] set up contact@thenextbillion.online
 - [ ] social media
 - [ ] comments on blog posts
