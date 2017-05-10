@@ -1,3 +1,9 @@
+.brand-heading-link, .brand-heading-link:hover, .brand-heading-link:active {
+  color: white;
+  text-decoration: none;
+}
+
+
 .p-small {
   font-size: 16px;
 }
