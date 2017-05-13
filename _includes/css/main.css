@@ -1,5 +1,13 @@
+.navbar-custom {
+  background-color: #90704d;
+}
+
 h2 {
   color: #ebb600;
+}
+
+h1 {
+  font-family: Lora, Times New Roman, serif;
 }
 
 .page-scroll {
@@ -49,6 +57,7 @@ h4 {
 
 body {
   background-color: #90704d;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif
 }
 
 a {
