@@ -1,3 +1,11 @@
+h2 {
+  color: #ebb600;
+}
+
+.page-scroll {
+  text-decoration: none;
+}
+
 .brand-heading-link, .brand-heading-link:hover, .brand-heading-link:active {
   color: white;
   text-decoration: none;
@@ -40,24 +48,28 @@ h4 {
 }
 
 body {
-  background-color: #3e486d;
+  background-color: #90704d;
 }
 
 a {
-  color: #94abff;
+  color: #ebb600;
+  text-decoration: underline;
 }
 
 a:hover {
-  color: #94abff;
+  color: #d1b967;
   text-decoration: underline;
 }
 
 .btn-default {
-  background-color: #e9f5f7;
+  background-color: #ebb600;
+  color: white;
+  border: 1px solid white;
 }
 
 .btn-default:hover {
   background-color: white;
+  color: white;
 }
 
 .btn-default:active {
@@ -65,8 +77,12 @@ a:hover {
   color: white;
 }
 
+.resource-logo {
+  color: #8a7b67;
+}
+
 .top-nav-collapse {
-  background-color: #3e486d;
+  background-color: #90704d;
 }
 
 .content-section {
@@ -75,7 +91,7 @@ a:hover {
 }
 
 #resources, #footer {
-  background-color: #233150;
+  background-color: #907858;
 }
 
 @media (min-width: 800px) {
@@ -86,6 +102,7 @@ a:hover {
 
 .mini-resource-section-button {
   margin-bottom: 30px;
+  text-decoration: none;
 }
 
 .resource-mini-section {
