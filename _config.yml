@@ -6,8 +6,10 @@ description: "Technology brings bounty to the rich, while more than half of the 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#3e486d'
-  links: '#7792f5'
+  primary-dark: '#90704d'
+  secondary-dark: '#907858'
+  accent-color: '#ebb600'
+  links: '#ebb600'
 
 # Footer settings
 footer: The Next Billion Online
