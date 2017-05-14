@@ -76,6 +76,7 @@ a {
 
 a:hover,
 a:focus {
+    color: {{ site.color.links }};
     text-decoration: none;
 }
 
@@ -102,7 +103,6 @@ a:focus {
      border: 1px solid {{ site.color.links }};
      outline: 0;
      color: {{ site.color.primary-dark }};
-     background-color: transparent;
  }
 
  .btn-circle {
