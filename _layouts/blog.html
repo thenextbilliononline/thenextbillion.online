@@ -7,12 +7,12 @@
     <section class="container content-section">
       <div class="row">
           <div class="col-lg-10 col-lg-offset-1">
-              <ul>
+              <ul class="blog-posts-container">
   		{% for post in site.posts %}
      		 {{ post.excerpt }}
 		<a href="{{ post.permalink }}">more...</a>
 		<br></br>
-		<br></br>  		
+		<br></br>
 		{% endfor %}
 	       </ul>
 		<ul>
@@ -31,5 +31,3 @@
   {% include js.html %}
   </body>
 </html>
-
-

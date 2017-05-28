@@ -391,3 +391,9 @@ footer {
 footer p {
     margin: 0;
 }
+
+/*BLOG*/
+
+.blog-posts-container h1 {
+  color: {{ site.color.accent-color }};
+}
