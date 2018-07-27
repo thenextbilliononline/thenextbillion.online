@@ -55,7 +55,7 @@ Then you will create a Gemfile and install the ruby dependencies. Again, enter t
 
 ```
 touch Gemfile
-echo -e "source 'https://rubygems.org\ngem 'github-pages', group: :jekyll_plugins" > Gemfile
+echo -e "source 'https://rubygems.org'\ngem 'github-pages', group: :jekyll_plugins" > Gemfile
 sudo gem install bundler
 bundle install
 ```
