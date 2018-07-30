@@ -29,6 +29,7 @@ Macs:
 Open your terminal and type (or copy/paste) each line below, one at a time. Press enter after each line
 
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`  
+`sudo apt install npm`
 `xcode-select —install`  
 `brew update`  
 `brew install git`  
@@ -56,8 +57,10 @@ Then you will create a Gemfile and install the ruby dependencies. Again, enter t
 ```
 touch Gemfile
 echo -e "source 'https://rubygems.org'\ngem 'github-pages', group: :jekyll_plugins" > Gemfile
-sudo gem install bundler
-bundle install
+sudo gem install bundler  
+sudo apt-get install libxslt-dev libxml2-dev zlib1g-dev  
+sudo gem install nokogiri  
+bundle install  
 ```
 
 ### 4. Run the server
