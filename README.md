@@ -85,7 +85,7 @@ Feature TDL:
 - [x] [blog posts](https://jekyllrb.com/docs/blog/)
 - [ ] logo
 - [x] wiki
-- [ ] set up contact@thenextbillion.online
+- [x] set up contact@thenextbillion.online
 - [ ] social media
 - [ ] comments on blog posts
 - [ ] meta
