@@ -302,9 +302,22 @@ a:focus {
 
 /*HEADER*/
 
+.animated-text{
+    position:relative;
+    top:250px;
+    margin-right:50px;
+}
+
 .brand-heading-link, .brand-heading-link:hover, .brand-heading-link:active {
   color: white;
   text-decoration: none;
+  text-align: left;
+}
+
+.flt-right{
+    position: relative;
+    float: right;
+    left:300px;
 }
 
 .intro {
@@ -322,6 +335,11 @@ a:focus {
     -o-background-size: cover;
 }
 
+#brand-name{
+    font-size: 175px;
+    line-height: 85%;
+}
+
 .intro .intro-body {
     display: table-cell;
     vertical-align: middle;
@@ -335,6 +353,24 @@ a:focus {
 .intro .intro-body .intro-text {
     font-size: 18px;
 }
+
+.learn-more, .learn-more:hover, .learn-more:active {
+    color: #fff;
+    text-decoration:none;
+    font-size:34px;
+
+}
+
+.top-line{
+    margin: 0 auto;
+    display:block;
+    box-sizing: border-box;
+    border-bottom: 4px solid white;
+    width:450px;
+    margin-bottom:25px;
+    margin-top:55px;
+}
+
 
 @media(min-width:767px) {
     .intro {
