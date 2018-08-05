@@ -402,13 +402,21 @@ a:focus {
         width: 75%;
     }
 
-    .mobile-hide{
-        overflow: hidden;
-        float:left;
-        font-size: 100px;
+    #mobile-hide{
+        display:none;
     }
-}
 
+    .mobile-brand{
+        display:visible;
+        font-size:300px;
+    }
+
+    .intro{
+        overflow: hidden;
+    }
+
+}
+/*
 @media(max-width:800px) {
 
     .mobile-brand{
@@ -425,8 +433,8 @@ a:focus {
     }
 
 
-}
-@media(min-width:801px) {
+}*/
+@media(min-width:1200px) {
     .mobile-brand{
             display:none;
     }
