@@ -52,10 +52,10 @@ The colors used in the website are as follow:
 
 The use of text has two different guidelines that even though are similar have its differences, one for the website and one for posts on the blog, wiki and meta portal. Both use the same font sizes of 20px for every paragraph and default heading sizes.
 
-###- Website
+### Website
 
-	On the website text is always aligned to the center and colored white. Headings are the same color as the links, the website's accent color, and h2 are being used.
+On the website text is always aligned to the center and colored white. Headings are the same color as the links, the website's accent color, and h2 are being used.
 
-###- Blog / Wiki / Meta Portal
+### Blog / Wiki / Meta Portal
 
-	For all these other pages text is displayed inside a floating box with the website's accent color and a yellow left border. The headings are all white, but content is black and everything is aligned to the left. On the beginning of the blog posts an image can be added, if so then wrap the text on the right of the image.
+For all these other pages text is displayed inside a floating box with the website's accent color and a yellow left border. The headings are all white, but content is black and everything is aligned to the left. On the beginning of the blog posts an image can be added, if so then wrap the text on the right of the image.
