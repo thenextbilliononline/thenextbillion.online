@@ -186,7 +186,7 @@ a:focus {
   padding-bottom: 130px;
 }
 
-#resources, #footer {
+#resources, #contact {
   background-color: #907858;
 }
 
@@ -302,10 +302,15 @@ a:focus {
 
 /*HEADER*/
 
-.animated-text{
+.animated-div{
     position:relative;
-    top:250px;
-    margin-right:50px;
+    padding-top:22%;
+    padding-right: 5%;
+}
+
+#animated-text{
+    height: 95%;
+    width: 95%;
 }
 
 .brand-heading-link, .brand-heading-link:hover, .brand-heading-link:active {
@@ -387,6 +392,53 @@ a:focus {
     }
 }
 
+@media(max-width:1200px) {
+    .animated-div{
+        display: none;
+    }
+
+    #animated-text{
+        height: 75%;
+        width: 75%;
+    }
+
+    #mobile-hide{
+        display:none;
+    }
+
+    .mobile-brand{
+        display:visible;
+        font-size:300px;
+    }
+
+    .intro{
+        overflow: hidden;
+    }
+
+}
+/*
+@media(max-width:800px) {
+
+    .mobile-brand{
+        display:visible;
+        font-size:300px;
+    }
+
+    .intro{
+        overflow: hidden;
+    }
+
+    #mobile-hide{
+        display:none;
+    }
+
+
+}*/
+@media(min-width:1200px) {
+    .mobile-brand{
+            display:none;
+    }
+}
 /*RESOURCE*/
 
 .resource-logo {
