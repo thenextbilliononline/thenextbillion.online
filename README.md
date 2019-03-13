@@ -55,11 +55,10 @@ NOTE: First you must `cd` inside of the repo you just cloned. Cd is a script in 
 Then you will create a Gemfile and install the ruby dependencies. Again, enter these one at a time. 
 
 ```
+sudo apt-get install libxslt-dev libxml2-dev zlib1g-dev 
 touch Gemfile
-echo -e "source 'https://rubygems.org'\ngem 'github-pages', group: :jekyll_plugins" > Gemfile
-sudo gem install bundler  
-sudo apt-get install libxslt-dev libxml2-dev zlib1g-dev  
-sudo gem install nokogiri  
+echo -e "source 'https://rubygems.org'\ngem 'github-pages', group: :jekyll_plugins" > Gemfile  
+sudo apt-get install libxslt-dev libxml2-dev zlib1g-dev   
 bundle install  
 ```
 
@@ -72,6 +71,7 @@ bundle install
 ### 5. Committing Changes to the Repo
 Once you make your changes, you must use git. From your terminal, run each of these one at a time. Press enter after each line.
 
+`
 `git add --all`  
 `git commit -m "tell us what changes you made here"`  
 `git push origin feature/pick-a-branch-name"`  
