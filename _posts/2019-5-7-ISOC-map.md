@@ -15,14 +15,7 @@ We see the world as fundamentally improved by technology. However, technology do
 
 To solve that, we have to think in ways that are anti-oppressive, intersectional, and explicitly aware of privilege. We can look to projects like One Laptop per Child which, with good intentions, was unable to solve the crises of poverty. According to [The World Bank](https://blogs.worldbank.org/impactevaluations/one-laptop-per-child-is-not-improving-reading-or-math-but-are-we-learning-enough-from-these-evaluati) recognizes that despite 10s of millions of distributed laptops, giving children out-of-context technology does not improve their math or reading scores. Certainly, standardized test scores are not the end-all, be-all of education metrics, but they are all we have. The only thing that OLPC did improve was the children's engagement with technology. This is should be obvious--giving children computers makes them more familiar with computers. What it doesn't do, however, is change anything structurally.
 
-Take a minute to play with the map below, provided by [The Internet Society](https://internetsociety.org). 
-
-<!-- Map Section -->
-<div class="isoc-map" id="isoc-map">
-    <iframe src="http://www.internetsociety.org/map/global-internet-report/" width="100%" height="650" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
-_Did you notice anything?_
+![Global Broadband Map](../img/broadband-map.png)
 
 These problems are not unique to the internet, but indistinguishable from the problems of modern capitalism as a whole. Notice how liberal democracies like Switzerland, France, Denmark, and the United Kingdom have the highest penetration of fixed broadband. These countries have among the best [GDP per capita.](https://www.cia.gov/library/publications/the-world-factbook/rankorder/2004rank.html) This is no coincidence as every dollar of investment in internet infrastructure produces a host of new benefits for the community--increased access to education, a more liquid economy, and the potential to grow and expand that infrastructure. The point of this website, and the decentralized internet more generally is to bring The Next BIllion people online, from those places on the map that could seriously use some investment in education and infrastructure. And this time, the internet wil not be censored of stifled by the whims of politicians. It will be built on open source, encrypted protocols that keep its users safe from even the most repressive of regimes.
 
